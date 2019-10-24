@@ -71,7 +71,7 @@ subtitle = ""
 
 2018
 
-1. Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, Kaixing Zhao. 2018. FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks. arXiv:1902.11179. Retrieved from https://arxiv.org/abs/1902.11179
+1. Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, \bKaixing Zhao. 2018. FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks. arXiv:1902.11179. Retrieved from https://arxiv.org/abs/1902.11179
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
