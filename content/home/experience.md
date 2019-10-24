@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Toulouse"
   date_start = "2019-10-01"
   date_end = "2020-09-30"
-  description = "TA in Faculty of Science and Technology"
+  description = """TA in Faculty of Science and Technology
   Teaching responsibilities include:
   
   * Network
