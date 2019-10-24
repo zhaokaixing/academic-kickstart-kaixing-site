@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "La Rochelle"
   date_start = "2018-04-01"
   date_end = "2018-09-30"
-"""
 
 [[experience]]
   title = "Teaching Assistant"
