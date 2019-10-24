@@ -70,6 +70,6 @@ email: "kaixing.zhao@irit.fr"
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Kaixing ZHAO, born on 18/01/1995 in China. I am a Ph.D. Candidate of Elipse team, IRIT (CNRS UMR 5505, Toulouse Institute of Computer Science Research, France) and University of Toulouse (Toulouse 3 - Paul Sabatier University). I work both with researchers of CNRS (French National Science Research Center) and professors of Paul Sabatier University and my research is dedicated to designing novel interaction techniques in the field of ubiquitous computing, cognitive science and visually impaired augmented technologies. I am also interested in some artificial intelligence technologies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My supervisors are Dr. Christophe Jouffrais (Senior Research Scientist in Cognitive Science, CNRS, Director of IPAL Lab of CNRS/National University of Singapore/Sorbonne University) and Dr. Marcos Serrano (Associate Professor in Computer Science, University of Toulouse).
