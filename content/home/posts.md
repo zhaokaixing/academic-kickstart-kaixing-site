@@ -66,3 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 [09/2019] I will be Teaching Assistant (Database Systems, C Programming, Network and Introduction of Human-Computer Interaction, etc.) this year in University of Toulouse Paul Sabatier.
+[08/2019] Our paper entitled "Dynamic Multi-Task Learning for Face Recognition with Facial Expression" is accepted by Lightweight Face Recognition Challenge Workshop of ICCV 2019.
+[06/2019] I will be visiting student at Augmented Human Lab, Auckland Bioengineering Institute, University of Auckland from 15/07 to 18/08 supervised by Dr. Suranga Nanayakkara.
+[05/2019] I will attend RJC 2019 - French 9th Young Researchers in Human-Computer Interaction Meeting (1st Franco-Italian Young Researchers Meeting) in Montaigut-sur-Save from 01/07 to 04/07.
