@@ -62,3 +62,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2019
+
+1. Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, Kaixing Zhao. 2019. Dynamic Multi-Task Learning for Face Recognition with Facial Expression. in International Conference on Computer Vision Workshops (ICCV 2019) (To appear)
+
+2018
+
+1. Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, Kaixing Zhao. 2018. FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks. arXiv:1902.11179. Retrieved from https://arxiv.org/abs/1902.11179
