@@ -65,3 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[09/2019] I will be Teaching Assistant (Database Systems, C Programming, Network and Introduction of Human-Computer Interaction, etc.) this year in University of Toulouse Paul Sabatier.
