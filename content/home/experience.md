@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Intern"
+  company = "L3i, University of La Rochelle"
+  company_url = "https://l3i.univ-larochelle.fr/"
+  location = "La Rochelle"
+  date_start = "2018-04-01"
+  date_end = "2018-09-30"
+"""
+
+[[experience]]
   title = "Teaching Assistant"
   company = "University of Toulouse (Paul Sabatier)"
   company_url = "http://www.univ-tlse3.fr/"
