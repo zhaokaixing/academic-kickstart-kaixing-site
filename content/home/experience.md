@@ -31,6 +31,5 @@ date_format = "Jan 2006"
   * Database systems
   * Project C
   * Introduction to HCI
-  """
 
 +++
